@@ -52,11 +52,13 @@ if (require.main === module) {
   const options = {verbose}
 
   const client = new Cortex(options)
+  // these values need to fill to run example
   const auth = {
     username: '...',
     password: '...',
     client_id: '...',
-    client_secret: '...'
+    client_secret: '...',
+    debit: 1 // first time you run example debit should > 0
   }
 
   client.ready
