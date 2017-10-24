@@ -7,7 +7,7 @@
 
 Operating system: ✍️ TODO
 Last upstream commit (run `git log --author="Robert Lord" | head -n 1`): ✍️ TODO
-language version: ✍️ TODO
+language version:(nodejs version, ruby version ....) ✍️ TODO
 Cortex version:  ✍️ TODO
 
 ---
