@@ -11,6 +11,6 @@ Please refer to table below for each example:
 
 | Script | Purpose |
 |---|---|
-| raw.js | Streaming EEG data |
-| numbers.js | Streaming Band Power data |
-| events.js | Streaming Facial Expression data |
+| raw.js | Streaming eeg data |
+| numbers.js | Streaming band power, performance metric and motion data |
+| events.js | Streaming facial expression and mental command |
